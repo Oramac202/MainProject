@@ -1,0 +1,7 @@
+Creer un formulaire avec :
+	- Nom
+	- Prenom
+	- Age (bloquer autres que chiffres)
+	- Homme/femme (checkboxes)
+
+Récuperer les données pour les afficher dans un tableau 
